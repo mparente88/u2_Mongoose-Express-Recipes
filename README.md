@@ -25,7 +25,7 @@ For this lab we are going to create a Mongoose db and Express server that has a 
 - Create, Update, and Delete functionality for models as well
 - All functionality encapsulated in a Controllers folder
 -  At least 1 relation between collections related to each other, with at least 1 part embedded into each other (maybe you want to relate Ingredients to Recipes, while embedding Instructions within Recipes, or maybe go the other way around)
--  Each collection should have at least 3 documents within. You can use a Seed File or your Mongo shell to populate your data
+-  Each collection should have at least 3 documents within. You can use a Seed File or your ThunderClient app to populate your data
 
  ## Bonus
  - Make the recipes and share with your class
